@@ -1,4 +1,4 @@
-## Hi, everyone 👋
+## :wave: Hi, everyone
 
 My name is Vinícius, and I'm a passionate iOS developer dedicated to create disruptive and innovative technologies. I am an <i>Apple Developer Academy alumnus</i> and currently work as an <b>iOS Developer at Motorola</b> by Eldorado.
 
