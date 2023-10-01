@@ -1,19 +1,27 @@
 ## Hi, everyone 👋
-My name is Vinícius and i'm a iOS developer passionate about creating disruptive and innovative technologies. At the moment, I study Electrical Engeenier, and I'm looking for more and more ways to impact and transform people's lives through technology.
 
-I am currently a learner at the iOS Apple Developer Academy Eldorado Manaus.
+My name is Vinícius, and I'm a passionate iOS developer dedicated to create disruptive and innovative technologies. I am an <i>Apple Developer Academy alumnus</i> and currently work as an <b>iOS Developer at Motorola</b> by Eldorado.
 
-<!--
-**ViniciusPiinheiro/ViniciusPiinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+At the moment, I'm looking for more and more ways to impact and transform people's lives through technology.
 
-Here are some ideas to get you started:
+## :technologist: Tools of trade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
+</p>
+
+## :mailbox_with_mail: Reach me on
+<p>
+  <a href="http://linkedin.com/in/viniciuspiinheiro/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+   <a href="mailto:viniciussp.on@gmail.com">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="http://instagram.com/viniciuspiinheiro">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+</p>
+
