@@ -3,14 +3,6 @@ My name is Vinícius and i'm a iOS developer passionate about creating disruptiv
 
 I am currently a learner at the iOS Apple Developer Academy Eldorado Manaus.
 
-### My Release App 📱
-
-🎉 [Festeje!](https://apps.apple.com/br/app/festeje/id1535743078?l=en)  
-
-### Reach me on 📬
-
-💼 [Linkedin](https://www.linkedin.com/in/viniciuspinheiiro/)  
-
 <!--
 **ViniciusPiinheiro/ViniciusPiinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
